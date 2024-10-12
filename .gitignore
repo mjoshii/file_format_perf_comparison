@@ -1,3 +1,4 @@
 all_candidates.csv
 all_candidates.json
 all_candidates.parquet
+.DS_STORE
