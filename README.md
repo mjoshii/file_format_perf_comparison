@@ -1,0 +1,1 @@
+This repo contains python scripts which generate synthetic data using Faker library of python and store them in different formats. For now, its JSON, CSV and PARQUET. More file formats will be added in the future.
